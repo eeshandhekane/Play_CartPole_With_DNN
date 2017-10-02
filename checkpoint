@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/eeshan/Desktop/Sentdex_The_Great/Play_CartPole_With_DNN/DNN_CartPole-v0.model"
+all_model_checkpoint_paths: "/Users/eeshan/Desktop/Sentdex_The_Great/Play_CartPole_With_DNN/DNN_CartPole-v0.model"
